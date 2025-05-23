@@ -1,3 +1,4 @@
+-- Questão 1--
 CREATE TRIGGER dbo.credits_earned
 ON dbo.takes
 AFTER INSERT AS
